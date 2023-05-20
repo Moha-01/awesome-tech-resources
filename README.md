@@ -5,11 +5,13 @@ Curated list of my favorite tech products, insightful IT learning resources, and
 ## Table of Contents
 
 - [awesome-tech-resources](#awesome-tech-resources)
+
   - [Table of Contents](#table-of-contents)
+
     - [Awesome Github Repositorys](#awesome-github-repositorys)
-    - [Great Products](#great-products)
-    - [Useful IT Learning Resources](#useful-it-learning-resources)
     - [AI Tools](#ai-tools)
+    - [Useful IT Learning Resources](#useful-it-learning-resources)
+    - [Great Products](#great-products)
 
 ## Awesome Github Repositorys
 
@@ -43,8 +45,8 @@ Curated list of my favorite tech products, insightful IT learning resources, and
 
 - [front-end-collection](https://github.com/cheatsheet1999/FrontEndCollection): Notes for Front-end Software Engineers. Covers common data structure and algorithms, basic web concepts, HTML & CSS & Javascript.
 
-## Great Products
+## AI Tools
 
 ## Useful IT Learning Resources
 
-## AI Tools
+## Great Products
