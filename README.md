@@ -25,7 +25,7 @@ Curated list of my favorite tech products, insightful IT learning resources, and
 
 - [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev): A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development.
 
--[web-fundamentals](https://github.com/google/WebFundamentals): Best practices for modern web development.
+- [web-fundamentals](https://github.com/google/WebFundamentals): Best practices for modern web development.
 
 - [airbnb](https://github.com/airbnb/javascript): JavaScript Style Guide.
 
@@ -38,6 +38,10 @@ Curated list of my favorite tech products, insightful IT learning resources, and
 - [realworld](https://github.com/gothinkster/realworld): "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more.
 
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x): Build your own (insert technology here). This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch.
+
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books): Freely available programming books.
+
+- [front-end-collection](https://github.com/cheatsheet1999/FrontEndCollection): Notes for Front-end Software Engineers. Covers common data structure and algorithms, basic web concepts, HTML & CSS & Javascript.
 
 ## Great Products
 
