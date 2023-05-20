@@ -2,32 +2,32 @@
 
 Curated list of my favorite tech products, insightful IT learning resources, and more. Open for contributions and perfect for those venturing into the tech world or seeking the next great tool for their toolbox. Let's explore the landscape of technology together!
 
-## Inhaltsverzeichnis
+## Table of Contents
 
-- [Tolle Produkte](#tolle-produkte)
-- [Nützliche IT-Lernressourcen](#nützliche-it-lernressourcen)
-- [Weitere Ressourcen](#weitere-ressourcen)
+- [Great Products](#great-products)
+- [Useful IT Learning Resources](#useful-it-learning-resources)
+- [Additional Resources](#additional-resources)
 
-## Tolle Produkte
+## Great Products
 
-Hier liste ich einige meiner Lieblingsprodukte auf. Sie sind sowohl für ihre Qualität als auch für ihren Nutzen bekannt.
+Here I list some of my favorite products. They are well-known for their quality and utility.
 
-1. [Produktname](Link zum Produkt) - Eine kurze Beschreibung des Produkts.
-2. [Produktname](Link zum Produkt) - Eine kurze Beschreibung des Produkts.
+1. [Product Name](Product Link) - A brief description of the product.
+2. [Product Name](Product Link) - A brief description of the product.
 3. ...
 
-## Nützliche IT-Lernressourcen
+## Useful IT Learning Resources
 
-Dieser Abschnitt enthält Links zu Ressourcen, die mir beim Lernen in der IT geholfen haben.
+This section contains links to resources that have helped me learn in IT.
 
-1. [Ressourcenname](Link zur Ressource) - Eine kurze Beschreibung der Ressource.
-2. [Ressourcenname](Link zur Ressource) - Eine kurze Beschreibung der Ressource.
+1. [Resource Name](Resource Link) - A brief description of the resource.
+2. [Resource Name](Resource Link) - A brief description of the resource.
 3. ...
 
-## Weitere Ressourcen
+## Additional Resources
 
-In diesem Abschnitt füge ich Links zu anderen Ressourcen hinzu, die nicht unbedingt mit IT zu tun haben, aber trotzdem interessant und nützlich sein können.
+In this section, I add links to other resources that may not necessarily relate to IT but can still be interesting and useful.
 
-1. [Ressourcenname](Link zur Ressource) - Eine kurze Beschreibung der Ressource.
-2. [Ressourcenname](Link zur Ressource) - Eine kurze Beschreibung der Ressource.
+1. [Resource Name](Resource Link) - A brief description of the resource.
+2. [Resource Name](Resource Link) - A brief description of the resource.
 3. ...
