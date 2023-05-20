@@ -13,9 +13,7 @@ Curated list of my favorite tech products, insightful IT learning resources, and
 
 ## Awesome Github Repositorys
 
-- [How Web Works](https://github.com/vasanthk/how-web-works?ref=hackernoon.com)
-
-What happens behind the scenes when we type in a URL in the browser and press enter?
+- [How Web Works](https://github.com/vasanthk/how-web-works?ref=hackernoon.com) What happens behind the scenes when we type in a URL in the browser and press enter?
 
 ## Great Products
 
