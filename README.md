@@ -5,13 +5,10 @@ Curated list of my favorite tech products, insightful IT learning resources, and
 ## Table of Contents
 
 - [awesome-tech-resources](#awesome-tech-resources)
-
-  - [Table of Contents](#table-of-contents)
-
-    - [Awesome Github Repositorys](#awesome-github-repositorys)
-    - [AI Tools](#ai-tools)
-    - [Useful IT Learning Resources](#useful-it-learning-resources)
-    - [Great Products](#great-products)
+  - [Awesome Github Repositorys](#awesome-github-repositorys)
+  - [AI Tools](#ai-tools)
+  - [Useful IT Learning Resources](#useful-it-learning-resources)
+  - [Great Products](#great-products)
 
 ## Awesome Github Repositorys
 
@@ -44,6 +41,40 @@ Curated list of my favorite tech products, insightful IT learning resources, and
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books): Freely available programming books.
 
 - [front-end-collection](https://github.com/cheatsheet1999/FrontEndCollection): Notes for Front-end Software Engineers. Covers common data structure and algorithms, basic web concepts, HTML & CSS & Javascript.
+
+- [Usefull Books](https://github.com/goelaakash79/Useful-Books): A Repository containing books that are useful.
+
+- [Useful Bash Scripts](https://github.com/mertcangokgoz/UsefulBashScripts): A repository of useful bash script commands.
+
+- [Useful Scripts](https://github.com/zma/usefulscripts): Some useful scripts mostly for Linux environments.
+
+- [Windows 10 Tweaks](https://github.com/endtnernoah/win10-tweaks): Tweaks for Windows 10 to improve overall look, functionality and productivity.
+
+- [Web Skills](https://github.com/andreasbm/web-skills): a visual overview of useful skills to learn as a web developer.
+
+- [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): Some useful websites for programmers.
+
+- [awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics.
+
+- [ui-testing-best-practices](https://github.com/NoriSte/ui-testing-best-practices): A collection of best practices for UI testing.
+
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist): 🗂 The perfect Front-End Checklist for modern websites and meticulous developers. (https://frontendchecklist.io/)
+
+- [JavaScript Questions](https://github.com/lydiahallie/javascript-questions): A long list of (advanced) JavaScript questions, and their explanations.
+
+- [NodeJS Best Practices](https://github.com/goldbergyoni/nodebestpractices): The Node.js best practices list.
+
+- [wtfjs](https://github.com/denysdovhan/wtfjs): A list of funny and tricky JavaScript examples.
+
+-[awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets): 📚 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+
+-[the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+
+-[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page.
+
+-[app-ideas](https://github.com/florinpop17/app-ideas): A Collection of application ideas which can be used to improve your coding skills.
+
+- [awesome-python](https://github.com/vinta/awesome-python): A curated list of awesome Python frameworks, libraries, software and resources.
 
 ## AI Tools
 
