@@ -66,15 +66,17 @@ Curated list of my favorite tech products, insightful IT learning resources, and
 
 - [wtfjs](https://github.com/denysdovhan/wtfjs): A list of funny and tricky JavaScript examples.
 
--[awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets): 📚 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+- [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets): 📚 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
--[the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
--[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page.
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page.
 
--[app-ideas](https://github.com/florinpop17/app-ideas): A Collection of application ideas which can be used to improve your coding skills.
+- [app-ideas](https://github.com/florinpop17/app-ideas): A Collection of application ideas which can be used to improve your coding skills.
 
 - [awesome-python](https://github.com/vinta/awesome-python): A curated list of awesome Python frameworks, libraries, software and resources.
+
+- [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code): Short code snippets for all your development needs.
 
 ## AI Tools
 
