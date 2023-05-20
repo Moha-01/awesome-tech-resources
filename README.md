@@ -6,10 +6,10 @@ Curated list of my favorite tech products, insightful IT learning resources, and
 
 - [awesome-tech-resources](#awesome-tech-resources)
   - [Table of Contents](#table-of-contents)
-  - [Awesome Github Repositorys](#awesome-github-repositorys)
-  - [Great Products](#great-products)
-  - [Useful IT Learning Resources](#useful-it-learning-resources)
-  - [AI Tools](#ai-tools)
+    - [Awesome Github Repositorys](#awesome-github-repositorys)
+    - [Great Products](#great-products)
+    - [Useful IT Learning Resources](#useful-it-learning-resources)
+    - [AI Tools](#ai-tools)
 
 ## Awesome Github Repositorys
 
