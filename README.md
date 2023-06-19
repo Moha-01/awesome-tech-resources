@@ -9,6 +9,7 @@ Curated list of my favorite tech products, insightful IT learning resources, and
   - [AI Tools](#ai-tools)
   - [Useful IT Learning Resources](#useful-it-learning-resources)
   - [Great Products](#great-products)
+  - [TechStack Config](#tech-stack-config)
 
 ## Awesome Github Repositorys
 
@@ -83,3 +84,5 @@ Curated list of my favorite tech products, insightful IT learning resources, and
 ## Useful IT Learning Resources
 
 ## Great Products
+
+## TechStack Configs
