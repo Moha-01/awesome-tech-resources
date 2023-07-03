@@ -192,6 +192,8 @@ Curated list of my favorite tech products, insightful IT learning resources, and
 
 - [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/): AdwCleaner is a free removal tool for : Adware (ads software) PUP/LPI (Potentially Undesirable Program) Toolbars Hijacker (Hijack of the browser's homepage) Spyware It comes with both "Scan" and "Clean" mode. It can be easily uninstalled using the "Uninstall" button.
 
+- [JaxCore](https://jaxcore.app/): JaxCore is a beautiful, functional, customizable set of tools and widgets to spice up your desktop.
+
 - [LanguageTool](https://languagetool.org/?force_language=1): LanguageTool is a free online proofreading service for English, German, Spanish, French, and more than 20 other languages.
 
 - [iconfinder](https://www.iconfinder.com/free_icons): Free icons +246,666 Free vector icons for personal and commercial use. Download in .PNG, .EPS and .SVG format.
